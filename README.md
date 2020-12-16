@@ -1,1 +1,2 @@
-# Learning-Java is new fresh way.
+# Learning-Java is tough but fun though.
+
