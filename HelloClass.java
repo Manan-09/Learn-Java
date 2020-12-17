@@ -1,6 +1,6 @@
 class Outer
 {
-    static int val=10;
+    static int val=20;
     static void display()
     {
         System.out.println(val);
