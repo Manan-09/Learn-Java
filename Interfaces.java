@@ -32,6 +32,7 @@ public class interfaces
         k.show(obj);
         obj=new pencil();
         k.show(obj);
+
         obj= new writer(){
             public void show()
             {
@@ -39,5 +40,6 @@ public class interfaces
             }
         };
         obj.show();
+
     }
 }

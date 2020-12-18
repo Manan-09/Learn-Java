@@ -9,6 +9,7 @@ public class Variables
         float f=5.33f;
         c++;
         d--;
-        System.out.print(c);
+        System.out.println(c);
+        System.out.println(d);
     }
 }
