@@ -32,5 +32,14 @@ public class interfaces
         k.show(obj);
         obj=new pencil();
         k.show(obj);
+
+        obj= new writer(){
+            public void show()
+            {
+                System.out.println("Just keeping in mind");
+            }
+        };
+        obj.show();
+
     }
 }
