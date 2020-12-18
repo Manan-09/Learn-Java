@@ -6,7 +6,7 @@ class Hi extends Thread
         {
         System.out.println("Hi");
         try {
-            Thread.sleep(1289);
+            Thread.sleep(500);
         } 
         catch(Exception e) {
         }
@@ -21,7 +21,7 @@ class Hello extends Thread
         {
         System.out.println("Hello");
         try {
-            Thread.sleep(1289);
+            Thread.sleep(500);
         } 
         catch(Exception e) {
         }
